@@ -1,0 +1,14 @@
+# Simulation outputs
+*.vvp
+*.vcd
+*.log
+
+# EDA tool build directories and caches
+work/
+obj_dir/
+*.syn
+*.sim
+
+# OS generated files
+.DS_Store
+Thumbs.db
